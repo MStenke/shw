@@ -16,15 +16,15 @@ Wenn es doch mal klemmt, sind Sie aber nicht alleine. Also keine Angst davor sic
    :header-rows: 1
 
    * - **Martin Stenke**
-     - **Tobias Lampert**
+     - **Andreas Ehrenreiter**
    * - .. figure:: images/MStenke.png
-     - .. figure:: images/tlampert.png
+     - .. figure:: images/AEhrenreiter.png
    * - **Senior Systems Engineer**
-     - **Senior Systems Engineer**
+     - **Cloud Architect**
    * - Nutanix Germany GmbH
-     - Erik Sterck GmbH
+     - Nutanix Germany GmbH
    * - +49 160 / 8540279
-     - +49 152 / 28640020
+     - +49 151 / 11359466
    * - martin.stenke@nutanix.com
-     - tl@eriksterck.de
+     - andreas.ehrenreiter@nutanix.com
    
